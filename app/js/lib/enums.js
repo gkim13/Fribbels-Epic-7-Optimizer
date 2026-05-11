@@ -25,6 +25,8 @@ const setEnum = {
     'PROTECTION': 'protection',
     'REVERSAL': 'reversal',
     'RIPOSTE': 'riposte',
+    'WARFARE': 'warfare',
+    'PURSUIT': 'pursuit',
 };
 
 const rankEnum = {
